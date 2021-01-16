@@ -3,7 +3,17 @@ entries:
   tut01:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-16T10:02:41.886051Z"
+    created: "2021-01-16T10:29:04.600007Z"
+    description: A Helm chart for Kubernetes
+    digest: 0cdab8e13faddb361e7033295685355bbf781fc08a78212fee27284395384caf
+    name: tut01
+    type: application
+    urls:
+    - tut01-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-01-16T10:29:04.59809Z"
     description: A Helm chart for Kubernetes
     digest: 4b42533bb2c5b965f28c159e4c42853c2cb553fbcc61cf2d05fd8ca6406ce50d
     name: tut01
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-16T10:02:41.885523Z"
+    created: "2021-01-16T10:29:04.596557Z"
     description: A Helm chart for Kubernetes
     digest: acd9780d957464fff8e513e325d6b88d9cbb9f1c7d33049da8eccfe35bbf820f
     name: tut01
@@ -21,4 +31,4 @@ entries:
     urls:
     - tut01-0.1.0.tgz
     version: 0.1.0
-generated: "2021-01-16T10:02:41.883379Z"
+generated: "2021-01-16T10:29:04.595083Z"
