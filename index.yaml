@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  tut01:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-01-16T09:12:50.451153Z"
+    description: A Helm chart for Kubernetes
+    digest: acd9780d957464fff8e513e325d6b88d9cbb9f1c7d33049da8eccfe35bbf820f
+    name: tut01
+    type: application
+    urls:
+    - https://f28956.github.io/helm/tut01-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-01-16T09:12:50.450109Z"
